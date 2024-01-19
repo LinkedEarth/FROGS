@@ -10,7 +10,7 @@
 [Nick McKay](https://directory.nau.edu/person/npm4), School of Earth and Sustainability, Northern Arizona University
 
 ---
-<img src="images/dave.png" alt="Dave" width="100" />
+<img src="images/dave.jpg" alt="Dave" width="100" />
 
 [David Edge](https://directory.nau.edu/departments?id=10228&person=dce25), School of Earth and Sustainability, Northern Arizona University
 
