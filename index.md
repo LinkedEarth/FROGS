@@ -5,7 +5,7 @@ title: pyRATES: Python and R Analysis of Time SerieS
 ---
 
 ## June 3-6, 2024, Marina Del Rey, CA
-The geosciences are entering an exciting phase, with open-source research ecosystems opening new avenues of investigation. With this great power comes great responsibility: sharing research data, software, and worflow is fundamental to building a Findable, Accessible, Interoperable, and Reusable (FAIR) open science ecocystem. [FROGS](https://medium.com/cyberpaleo/new-training-opportunities-frogs-facilitating-reproducible-open-geoscience-1f12b857ec21) is a new initiative from [LinkedEarth](http://linked.earth) that links together science practice and publishing in a series of synchronous and asynchronous trainings. 
+The geosciences are entering an exciting phase, with open-source research ecosystems opening new avenues of investigation. With this great power comes great responsibility: sharing research data, software, and worflow is fundamental to building a Findable, Accessible, Interoperable, and Reusable (FAIR) open science ecocystem. [FROGS](http://linked.earth/FROGS/about) is a new initiative from [LinkedEarth](http://linked.earth) that links together science practice and publishing in a series of synchronous and asynchronous trainings. 
 
 The first training opportunity will kick off **June 3-6 2024 in [Marina Del Rey,CA](https://linkedearth.github.io/FROGS/marina)** and will consist of foundational training in Python and R for the geosciences, with an emphasis on time series analysis. 
 
