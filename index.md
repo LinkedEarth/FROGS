@@ -3,8 +3,9 @@ layout: default
 title: FROGS: Learning best practices in science and publishing
 ---
 ---
-
-<img src="images/Pyrateslogo.jpg" alt="Logo of Pyrates Wokshop" width="100" />
+<div style="text-align: center;">
+<img src="images/Pyrateslogo.jpg" alt="Logo of Pyrates Wokshop" width="200" />
+</div>
 
 pyRATES: Python and R Analysis of Time SerieS
 
