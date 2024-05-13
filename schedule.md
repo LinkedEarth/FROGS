@@ -39,7 +39,7 @@ The workshop will consist of three full days (9am-6pm) and a half day on Thursda
 |13:00|14:00| LUNCH | On your own | 
 |14:00|15:30| Spectral and Wavelet Analysis | Julien Emile-Geay, David Edge|  
 |15:30|16:30| BREAK |---------| 
-|16:30|18:00| Publishin Reproducible Workflows |Deborah Khider| 
+|16:30|18:00| Publishing Reproducible Workflows |Deborah Khider| 
 
 ### Day 4: Fireworks (9am - 12pm)
 
