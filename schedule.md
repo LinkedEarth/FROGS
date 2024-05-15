@@ -47,3 +47,5 @@ The workshop will consist of three full days (9am-6pm) and a half day on Thursda
 |9:00|10:30|Preparing to publish your reproducibility study| All |
 |10:30|11:00| BREAK | --------- | 
 |11:00|12:00| Citing data and software in your publications | Deborah Khider | 
+|12:00|12:15| BREAK | --------- |
+|12:15|13:00| Wrap-up | All |
