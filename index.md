@@ -23,7 +23,7 @@ Our second training opportunity (FAIRLeap) kick off **February 11-14th 2025 virt
 This training will be both synchronous and asynchronous over the next 8-10 weeks. The synchronous event will consist of a mixture of lectures and directed homeworks in the mornings of the workshop  and dedicated time for research or more in-depth tutorials. The asynchronous portion will consist of dedicated time during the workshop to start applying the concepts learned in the morning and over the following 8-10 weeks for completion of the project. The asynchronous portion will be supported through virtual office hours. Final repositories should be submitted 2 weeks after the end of the asynchronous period. Both the synchronous and asynchronous events will be supported by an online platform, [LeapFROGS](http://linked.earth/LeapFROGS) to learn or review relevant material.
 
 ### Participating
-* Register [here](https://forms.gle/bQW7U3TxvAy2iHWW6) by **January 10th, 2024**. 
+* Register [here](https://forms.gle/bQW7U3TxvAy2iHWW6) by **January 10th, 2025**. 
 * See our [FAQ](https://linkedearth.github.io/FROGS/faq) for any question. We highly recommend you read through this section. 
 * Feel free to [email us](mailto:linkedearth@gmail.com) with any additional question.
 
