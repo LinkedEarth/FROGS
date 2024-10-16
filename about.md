@@ -7,13 +7,13 @@ The next logical step is to promote these resources and train the community in t
 
 ## What should I be looking forward to in the next two years?
 
-FROGS will comprise two main thrusts: (1) the creation of an interactive platform, LeapFROGS and (2) a series of workshop aimed at geoscientists in various stages of their career.
+FROGS comprises two main thrusts: (1) the creation of an interactive platform, LeapFROGS and (2) a series of workshop aimed at geoscientists in various stages of their career.
 
 ### LeapFROGS
 
-LeapFROGS is a free online platform that will curate lecture materials on science practice and publishing, along with interactive, self-graded exercises to create self-paced learning modules on various aspects of scientific research. We expect that this platform will launch in **May 2024**; however, a prototype is available [here](http://linked.earth/ec_workshops_py/).
+LeapFROGS is a free online platform that curates lecture materials on science practice and publishing, along with interactive, self-graded exercises to create self-paced learning modules on various aspects of scientific research. The platform launched in May 2024 ahead of our first workshop and is available in a [Python kernel](http://linked.earth/LeapFROGS/) and an [R kernel](http://linked.earth/RLeapFROGS/).
 
-The modules will include links to reference materials together with exercises that test understandings of the concepts by filling in the blanks. Learners can get hints and detailed solutions. This platform will support training events. However, it is intended to be open to the entire geoscience community and can be used for self-paced tutorials outside of the training events. 
+The modules include links to reference materials together with exercises that test understandings of the concepts by filling in the blanks. Learners can get hints and detailed solutions. This platform also supports synchronous learning during training events. However, it is intended to be open to the entire geoscience community and can be used for self-paced tutorials outside of the training events. 
 
 ### Training workshops
 
@@ -27,11 +27,13 @@ The first training activity consists of foundational training in Python and R fo
 * *Description*: The workshop will consist of a blend of lectures and directed homework in the morning and afternoon session reserved for participants’ own research needs.
 * *Completion*: Submission of a notebook reproducing a study (or part thereof) in their field, published according to FAIR principles.
 
-#### FAIRLeap: FAIR publishing in the geosciences — February 2025, Virtual
+More detailed information is available [here](https://linkedearth.github.io/FROGS/pastworkshops). 
+
+#### FAIRLeap: FAIR publishing in the geosciences — February 11-14th 2025, Virtual
 * *Intended audience*: Researchers already engaged in geoscience research, preferably about to publish their first paper.
 * *Learning objectives*: Introduction to FAIR science publishing; basics of GitHub for software and project management; use of Docker, Binder, and myBinder for the sharing of reproducible and executable workflows.
 
-#### Open Geoscience Hackathon — June 2025, Marina del Rey, CA.
+#### Open Geoscience Hackathon — June/July 2025, Marina del Rey, CA.
 * *Intended audience*: Researchers interested in sharing their open science code in the form of an open source package, or in contributing to open source libraries.
 * *Learning objectives*: opening pull requests to contribute to open source projects; packaging software for distribution, including documentation; principles of unit tests and continuous integration (CI); publishing through a package manager.
 
