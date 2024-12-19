@@ -17,19 +17,19 @@ This workshop focused on foundational training in Python and R for the geoscienc
 
 ### Outcome
 
-Note that some of these repositories are kept private, awaiting for publication: 
+Note that some of these repositories are kept private, awaiting for publication. To view the notebooks, we suggest the use of [nbviewer](https://nbviewer.org).  
 
 |Participant Name | Affiliation | Research Area | Repository |
-|Pranay Tirpude | University of Delaware | Paleoceanography and Paleoclimatology | https://github.com/PaleoPranay/pyRATES|
-|Ruixia Bai | University of California-Santa Barbara|Volcanology, Geochemistry, and Petrology |https://github.com/ruixiabai/XYplot|
-|Kathryn Chen |Scripps Institution of Oceanography|Ocean Sciences|https://github.com/ksc005/pyrates/|
-|Dewan Haque|Louisiana State University|Earth and Planetary Surface Processes|https://github.com/Dewan-cpu/Decoding-Landslide-Hazard-Assessment|
-|Natalie Teale | Miami University | Hydrology | https://github.com/nteale/pyrates-proj|
-|Vasu Sreedevi | Florida Institute of Technology | Atmospheric Sciences | https://github.com/sputhiyamadam/PYRATES_workshop|
-|Jeng Hann Chong | University of New Mexico | Geodesy | https://github.com/chongjh11/pyrates2024|
-|Wenjia Li | University of Idaho | Geoinformatics | https://github.com/IGCCP/mindat-locality|
-|Victor Olawoyin | Boston College | Seismology | https://github.com/vikkybass/PyRates-reproduc |
-|Somita Chaudhari | University of Maryland Baltimore | Geoinformatics | https://github.com/SomitaChaudhari/Hawaii-Tidal-Analysis-Modelling-PyRates|
+|Pranay Tirpude | University of Delaware | Paleoceanography and Paleoclimatology | [GitHub](https://github.com/PaleoPranay/pyRATES)|
+|Ruixia Bai | University of California-Santa Barbara|Volcanology, Geochemistry, and Petrology |[GitHub](https://github.com/ruixiabai/XYplot)|
+|Kathryn Chen |Scripps Institution of Oceanography|Ocean Sciences|[GitHub](https://github.com/ksc005/pyrates/)|
+|Dewan Haque|Louisiana State University|Earth and Planetary Surface Processes|[GitHub](https://github.com/Dewan-cpu/Decoding-Landslide-Hazard-Assessment)|
+|Natalie Teale | Miami University | Hydrology | [GitHub](https://github.com/nteale/pyrates-proj)|
+|Vasu Sreedevi | Florida Institute of Technology | Atmospheric Sciences | [GitHub](https://github.com/sputhiyamadam/PYRATES_workshop)|
+|Jeng Hann Chong | University of New Mexico | Geodesy | [GitHub](https://github.com/chongjh11/pyrates2024)|
+|Wenjia Li | University of Idaho | Geoinformatics | [GitHub](https://github.com/IGCCP/mindat-locality)|
+|Victor Olawoyin | Boston College | Seismology | [GitHub](https://github.com/vikkybass/PyRates-reproduc) |
+|Somita Chaudhari | University of Maryland Baltimore | Geoinformatics | [GitHub](https://github.com/SomitaChaudhari/Hawaii-Tidal-Analysis-Modelling-PyRates)|
 
 
 ### Workshop schedule
