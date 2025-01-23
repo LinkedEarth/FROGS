@@ -10,13 +10,13 @@ title: FROGS: Learning best practices in science and publishing
 ## FAIRLeap: FAIR publishing in the geosciences
 
 ### February 11-14, 2025, Virtual, Anywhere on Earth
-The geosciences are entering an exciting phase, with open-source research ecosystems opening new avenues of investigation. With this great power comes great responsibility: sharing research data, software, and worflow is fundamental to building a Findable, Accessible, Interoperable, and Reusable (FAIR) open science ecocystem. [FROGS](http://linked.earth/FROGS/about) is a new initiative from [LinkedEarth](http://linked.earth) that links together science practice and publishing in a series of synchronous and asynchronous trainings. 
+The geosciences are entering an exciting phase, with open-source research ecosystems opening new avenues of investigation. With this great power comes great responsibility: sharing research data, software, and workflow is fundamental to building a Findable, Accessible, Interoperable, and Reusable (FAIR) open science ecosystem. [FROGS](http://linked.earth/FROGS/about) is a new initiative from [LinkedEarth](http://linked.earth) that links together science practice and publishing in a series of synchronous and asynchronous trainings. 
 
-Our second training opportunity (FAIRLeap) kick off **February 11-14th 2025 virtually** and will focus on publishing all artifacts of research in a manner consistent with FAIR principles to ensure that science is reproducible.
+Our second training opportunity (FAIRLeap) kicks off **February 11-14th 2025 virtually** and will focus on publishing all artifacts of research in a manner consistent with FAIR principles to ensure that science is reproducible.
 
-* *Intended audience:* researchers already engaged in geoscience research. Participants will be required to have worked through a geoscience project, either as part of a class project, a reproducibility study, or for a manuscript of their own. For manuscript that are still *in preparation*, you must be ready to submit within seven weeks of the workshop. 
+* *Intended audience:* researchers already engaged in geoscience research. Participants will be required to have worked through a geoscience project, either as part of a class project, a reproducibility study, or for a manuscript of their own. For manuscripts still *in preparation*, you must be ready to submit within seven weeks of the workshop. 
 * *Learning objectives:* Introduction to FAIR science publishing;  basics of GitHub for software and project management; use of *Docker*, *Binder*, and *myBinder* for the sharing of reproducible workflows. 
-* *Description:* The workshop will consist of a blend of lectures and directed homework in the morning synchronous sessions that will be held on Zoom. All lectures will be recorded and made available through YouTube for asynchronous learning. Asynchronous sessions, coordinated through Slack, will be reserved for participant's own research needs. Participants will be expected to present the outcome of the workshop on the last day
+* *Description:* The workshop will consist of a blend of lectures and directed homework in the morning synchronous sessions that will be held on Zoom. All lectures will be recorded and made available through YouTube for asynchronous learning. Asynchronous sessions, coordinated through Slack, will be reserved for participants' own research needs. Participants will be expected to present the outcome of the workshop on the last day
 * *Completion:* Participants will be asked to submit their study following FAIR principles, with the workflow executable through myBinder and shared in a publicly-available science gallery.
 
 ### Format
@@ -24,8 +24,8 @@ This training will be both synchronous and asynchronous over the next 8-10 weeks
 
 ### Participating
 * Register [here](https://forms.gle/bQW7U3TxvAy2iHWW6) by **January 31st, 2025**. 
-* See our [FAQ](https://linkedearth.github.io/FROGS/faq) for any question. We highly recommend you read through this section. 
-* Feel free to [email us](mailto:linkedearth@gmail.com) with any additional question.
+* See our [FAQ](https://linkedearth.github.io/FROGS/faq) for questions. We highly recommend you read through this section. 
+* Feel free to [email us](mailto:linkedearth@gmail.com) with any additional questions.
 
 ### Schedule
 
