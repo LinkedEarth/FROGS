@@ -29,7 +29,7 @@ This training will be both synchronous and asynchronous over the next 8-10 weeks
 
 ### Schedule
 
-Closer to the event, a schedule will be available [here](https://linkedearth.github.io/FROGS/schedule).
+The schedule is available [here](https://linkedearth.github.io/FROGS/schedule).
 
 ### Support
 
