@@ -6,24 +6,24 @@ A: This hackathon is open to all geoscientists already engaged in research eager
 
 ### Q: What is the format?
 
-A: The workshop is virtual and will run for 4 days (February 11-14 2025), during which we will alternate between lectures, directed homework and personal study/research time.  Collaboration will be encouraged at every level, and we will select attendees with a mix of interests/expertise to maximize intellectual cross-pollination. Participants will present on their research progress on the last day. The workshop will continue for 6-8 weeks after the synchronous event to allow for more in-depth studying of the materials. Office hours will be made available throughout this period. Completion of the workshop will be assessed by the submission of GitHub repository that follows FAIR publishing principles with a workflow executable through myBinder.. 
+A: The workshop is in-person and will run for 3 days (May 28-30 2025), during which we will alternate between lectures and hands on application. Collaboration will be encouraged at every level, and we will select attendees with a mix of interests/expertise to maximize intellectual cross-pollination. Participants will present on their research progress on the last day. The workshop will continue for 6-8 weeks after the in-person event to allow for more in-depth studying of the materials. Office hours will be made available throughout this period. Completion of the workshop will be assessed by the submission of a software package to a repository such as CRAN or PyPi or contribution to an open source library.
 
 ### Q: Do I need to know Python/R to attend this hackathon?
 
-A: Yes. We will not assist you with code development during this workshop. All your analyses should have be run prior to the event. 
+A: Yes. We will not assist you with code development during this workshop. 
 
 ### Q: What do I need to bring?
 
-A: Data, software and workflow. We cannot beam coffee over to you unfortunately but we will organize informal coffee break during the day so we get to know each other. 
+A: You computer, a code ready to be packaged, a toothbrush, a swimsuit. A change of clothes and a beach towel won't go amiss.
 
 
-### Q: What are the technical requirements?
+### Q: How much will NSF cover?
 
-A: You will need access to Zoom and Slack. A GitHub account and a repository are also needed for completion of the workshop.
+A: NSF can only support US-based applicants. Candidates from outside the US are heartily welcome, but will need to find their own sources of funding. For US-based candidates, we will do our best to cover everyone's travel and lodging expenses, but cannot know precisely how much we will give each participant (we are budgeting for an average of $2000 per person). This is a reimbursement and you will be reimbursed up to the amount that you spent on NSF-approved expenses. If $ is an issue, please let us know in your application. Also, as a courtesy to fellow applicants, we expect you to be responsive to communications and let us know if you need to cancel your participation at any point so we can apportion funds to other participants in need.
 
 ### Q: How do I register for the workshop?
 
-A: Please fill out this [form](https://forms.gle/SbbVykECg3ZhW4hh7) by **January 10th 2025**.
+A: Please fill out this [form](https://forms.gle/FF4HMBiqS4MbFuL6A) by **March 31st 2025**.
 
 ### Q: Will I be working alone?
 
@@ -37,21 +37,24 @@ A: The goal is to bring your research to the next level, by learning publishing 
 
 A: Yes! You will be able to reuse what your learn in this workshop outside an academic career.
 
-### Q: I see that you had the first training session in 2024. Should have I attended the first training workshop to be eligible for FAIRLeap?
+### Q: I see that you had the first training session in 2024. Should have I attended the first training workshop to be eligible for Open Geoscience Hackathon?
 
-A: No. Attendance to the PyRATES workshop is not necessary for FAIRLeap. 
+A: No. Attendance to the PyRATES or FAIRLeap workshops are not necessary.  
 
-### Q: I would love to attend but have previous committments. Is there a way for me to participate? 
+### Q: I would love to attend but have previous committments. Is there a way for me to participate?
 
-A: The lectures will be released asynchronously and you can also use our [platform](http://linked.earth/LeapFROGS/) to learn more about science publishing 
+A: At this time we are not planning for a virtual synchronous event. However, the LeapFROGS platform will be open to any researcher interested in Python, R, timeseries analysis, and FAIR science publishing.
 
 ### Q: OK, I'm sold. What happens next?
 
-A: Once you have registered, the organizers will review applications and expect to make decisions by mid-January. If you are selected, you will be asked to accept our Slack invitation. 
+A: Once you have registered, the organizers will review applications and expect to make decisions by mid-April. If you are selected, you will be asked to:
 
-This is to make sure you can hit the ground running on February 11th.
+* make timely travel bookings to minimize cost
+* create/share a GitHub account with us
+
+This is to make sure you can hit the ground running on May 28th.
 
 ### Q: My application was not accepted. What did I do wrong?
 A: You did nothing wrong! There are many possible reasons, but in the past the lead causes of rejection have been:
-- __rationale for attending is not sufficiently articulated__: You need to explain why it will advance your scientific career to do this. Vague responses to the questionnaires will be dismissed. Response such as "I want to learn Python" also often lead to a rejection. This is not a Python short course. You need to demonstrate an enthusiasm for learning FAIR scientific publishing practices. 
-- __too many people from the same research group__. While we are honored that some PIs are encouraging their entire labs to apply, we strive to balance opportunities between universities. Since this event is virtual, we expect to accomodate up to 100 applicants. 
+- __rationale for attending is not sufficiently articulated__: You need to explain why it will advance your scientific career to do this. Vague responses to the questionnaires will be dismissed. Response such as "I want to learn Python" also often lead to a rejection. This is not a Python short course.  
+- __too many people from the same research group__. While we are honored that some PIs are encouraging their entire labs to apply, we strive to balance opportunities between universities. 
