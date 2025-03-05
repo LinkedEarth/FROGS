@@ -33,7 +33,7 @@ More detailed information is available [here](https://linkedearth.github.io/FROG
 * *Intended audience*: Researchers already engaged in geoscience research, preferably about to publish their first paper.
 * *Learning objectives*: Introduction to FAIR science publishing; basics of GitHub for software and project management; use of Docker, Binder, and myBinder for the sharing of reproducible and executable workflows.
 
-#### Open Geoscience Hackathon — June/July 2025, Marina del Rey, CA.
+#### Open Geoscience Hackathon — May 2025, Marina del Rey, CA.
 * *Intended audience*: Researchers interested in sharing their open science code in the form of an open source package, or in contributing to open source libraries.
 * *Learning objectives*: opening pull requests to contribute to open source projects; packaging software for distribution, including documentation; principles of unit tests and continuous integration (CI); publishing through a package manager.
 
