@@ -9,7 +9,7 @@ title: FROGS: Learning best practices in science and publishing
 
 ## Open GeoScience Hackathon
 
-### May 28-30th 2026, Information Sciences Institute, Marina Del Rey, CA. 
+### May 28-30th 2025, Information Sciences Institute, Marina Del Rey, CA. 
 The geosciences are entering an exciting phase, with open-source research ecosystems opening new avenues of investigation. With this great power comes great responsibility: sharing research data, software, and workflow is fundamental to building a Findable, Accessible, Interoperable, and Reusable (FAIR) open science ecosystem. [FROGS](http://linked.earth/FROGS/about) is a new initiative from [LinkedEarth](http://linked.earth) that links together science practice and publishing in a series of synchronous and asynchronous trainings. 
 
 Our last training opportunity (Open GeoScience Hackathon) kicks off **May28-30th 2025 in [Marina Del Rey](http://linked.earth/FROGS/marina)** and will focus on packaging research software for the geosciences.
