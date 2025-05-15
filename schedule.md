@@ -17,7 +17,7 @@ The workshop will consist of three days (9am-5pm PST) with instructional time in
 
 | Start | End | Session        | Speaker       |
 |-------|-----|----------------|----------------|
-| 09:00 | 10:00 | Writing a good documentation and testing| Nick NcKay |
+| 09:00 | 10:00 | Writing a good documentation and testing| Nick McKay |
 | 10:00 | 10:15 | BREAK |--------|
 | 10:15 | 12:00 | Hands-on practice with toy package| Deborah Khider|
 | 12:00 | 13:00 | LUNCH |--------|
@@ -27,7 +27,7 @@ The workshop will consist of three days (9am-5pm PST) with instructional time in
 
 | Start | End | Session        | Speaker       |
 |-------|-----|----------------|----------------|
-| 09:00 | 10:00 | CI and publishing | Nick NcKay |
+| 09:00 | 10:00 | CI and publishing | Nick McKay |
 | 10:00 | 10:15 | BREAK |--------|
 | 10:15 | 12:00 | Hands-on practice with toy package| Deborah Khider|
 | 12:00 | 13:00 | LUNCH     |--------|
