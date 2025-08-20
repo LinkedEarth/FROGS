@@ -3,35 +3,33 @@ layout: default
 title: FROGS: Learning best practices in science and publishing
 ---
 ---
-<div style="text-align: center;">
-<img src="images/GeoScienceHackathon.jpg" alt="Logo of FAIRLeap Workshop" width="200" />
-</div>
+## Publishing all your research. 
 
-## Open GeoScience Hackathon
+Sharing research data, software, and workflow is fundamental to building a Findable, Accessible, Interoperable, and Reusable (FAIR) open science ecosystem. Indeed, over the past decade, funders and publishers have introduced open science policies emphasizing reproducibility, recognizing increased frameworks that support the sharing of reproducible science products.
 
-### May 28-30th 2025, Information Sciences Institute, Marina Del Rey, CA. 
-The geosciences are entering an exciting phase, with open-source research ecosystems opening new avenues of investigation. With this great power comes great responsibility: sharing research data, software, and workflow is fundamental to building a Findable, Accessible, Interoperable, and Reusable (FAIR) open science ecosystem. [FROGS](http://linked.earth/FROGS/about) is a new initiative from [LinkedEarth](http://linked.earth) that links together science practice and publishing in a series of synchronous and asynchronous trainings. 
+The next logical step was to promote these resources and train the community in their use. Supported by the National Science Foundation, FROGS is a LinkedEarth initiative that linked together science practice and publishing in a series of asynchronous and synchronous trainings.
 
-Our last training opportunity (Open GeoScience Hackathon) kicks off **May28-30th 2025 in [Marina Del Rey](http://linked.earth/FROGS/marina)** and will focus on packaging research software for the geosciences.
+## What have we done so far?
 
-* *Intended audience*: Researchers interested in sharing their open science code in the form of an open source package, or in contributing to open source libraries.
-* *Learning objectives*: opening pull requests to contribute to open source projects; packaging software for distribution, including documentation; principles of unit tests and continuous integration (CI); publishing through a package manager.
-* *Description:* The workshop will consist of a blend of lectures and the participant's own research needs.
-* *Completion:* Participants will be asked to submit a research software package to a repository such as CRAN or PyPI and/or contribute to an open source package through a pull request. 
+With the first round of funding, we concentrated on two main thrusts: (1) the creation of an interactive platform, LeapFROGS and (2) a series of workshop aimed at geoscientists in various stages of their career.
 
-### Format
-This training will be both synchronous and asynchronous over the next 8-10 weeks. The synchronous event will consist of a mixture of lectures and dedicated time for research. The asynchronous portion will take place over the following 8-10 weeks for completion of the project. The asynchronous portion will be supported through virtual office hours. Final links to software repositories should be submitted 2 weeks after the end of the asynchronous period. Both the synchronous and asynchronous events will be supported by an online platform, [LeapFROGS](http://linked.earth/LeapFROGS) to learn or review relevant material.
+### LeapFROGS
 
-### Participating
-* Register [here](https://forms.gle/rGT1UAeLwc4Y3Ffy7) by **March 31st, 2025**. 
-* See our [FAQ](https://linkedearth.github.io/FROGS/faq) for questions. We highly recommend you read through this section. 
-* Feel free to [email us](mailto:linkedearth@gmail.com) with any additional questions.
+LeapFROGS is a free online platform that curates lecture materials on science practice and publishing, along with interactive, self-graded exercises to create self-paced learning modules on various aspects of scientific research. The platform launched in May 2024 ahead of our first workshop and is available in a [Python kernel](http://linked.earth/LeapFROGS/) and an [R kernel](http://linked.earth/RLeapFROGS/). It has been updated throughout 2025 to address various aspects of scientific research and publishing.
 
-### Schedule
+The modules include links to reference materials together with exercises that test understandings of the concepts by filling in the blanks. Learners can get hints and detailed solutions. This platform also supports synchronous learning during training events. However, it is intended to be open to the entire geoscience community and can be used for self-paced tutorials outside of the training events. 
 
-The schedule is available [here](https://linkedearth.github.io/FROGS/schedule).
+### Training workshops
 
-### Support
+All training events consisted of an synchronous hackathon followed by several weeks of practical exercises to incorporate the training into the participants’ research. We also held office hours during these weeks to help participants integrate these publishing principles into their research workflow. To learn more about the various workshops and their outcome, refer to our [past workshops page](https://linkedearth.github.io/FROGS/pastworkshops).
 
-This workshop is supported by NSF grant RISE 2324732 from the [Geoscience Open Science Ecosystem program](https://new.nsf.gov/funding/opportunities/geosciences-open-science-ecosystem-geo-ose). Travel grants are available for US-based participants. 
+Our [resources page](https://linkedearth.github.io/FROGS/resources) contain links to all the products created under FROGS such as the instructional platform, learning materials, YouTube tutorials and more! Check it out!
+
+## Stay in touch!
+
+If you have attended a FROGS workshop (or missed the opportunity but are looking forward to more), stay in touch by [email](mailto:linkedearth@gmail.com), through our [Discourse forum](https://discourse.linked.earth), or on social media ([X](https://x.com/Linked_Earth) and [Bluesky](https://bsky.app/profile/linkedearth.bsky.social)). Also, check out our [Medium blog](https://medium.com/cyberpaleo) for news about LinkedEarth.
+
+## Support
+
+This work is supported by NSF grants RISE 2324732/2324733 from the [Geoscience Open Science Ecosystem program](https://new.nsf.gov/funding/opportunities/geosciences-open-science-ecosystem-geo-ose). Travel grants are available for US-based participants. 
 

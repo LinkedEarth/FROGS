@@ -3,6 +3,7 @@
 Quick links:
 - [PyRATES: Python and R Analysis of Time SerieS](#pyrates)
 - [FAIRLeap: FAIR publishing in the geosciences](#fairleap)
+- [Open Geoscience Hackathon](#ogh)
 
 <h2 id="pyrates">PyRATES: Python and R Analysis of Time SerieS</h2>
 
@@ -10,7 +11,7 @@ Quick links:
 <img src="images/Pyrateslogo.jpg" alt="Logo of Pyrates Workshop" width="200" />
 </div>
 
-#### June 3-6, 2024, Marina Del Rey, CA
+## June 3-6, 2024, Marina Del Rey, CA
 
 This workshop focused on foundational training in Python and R for the geosciences, with an emphasis on time series analysis. 
 
@@ -91,9 +92,9 @@ Note that some of these repositories are kept private, awaiting for publication.
 <img src="images/FAIRLeap.jpg" alt="Logo of FAIRLeap Workshop" width="200" />
 </div>
 
-#### February 11-14, 2025, Virtual, Anywhere on Earth
+## February 11-14, 2025, Virtual, Anywhere on Earth
 
-ocus on publishing all artifacts of research in a manner consistent with FAIR principles to ensure that science is reproducible.
+This workshop focused on publishing all artifacts of research in a manner consistent with FAIR principles to ensure that science is reproducible.
 
 * *Intended audience:* researchers already engaged in geoscience research. Participants will be required to have worked through a geoscience project, either as part of a class project, a reproducibility study, or for a manuscript of their own. For manuscripts still *in preparation*, you must be ready to submit within seven weeks of the workshop. 
 * *Learning objectives:* Introduction to FAIR science publishing;  basics of GitHub for software and project management; use of *Docker*, *Binder*, and *myBinder* for the sharing of reproducible workflows. 
@@ -146,3 +147,66 @@ Topics to be covered: Docker, Binder and myBinder, creating an environment or re
 |9:00|12:00| Presentations| All |
 |12:00|13:00| LUNCH | ---------- |
 |13:00|17:00| Review of a colleague's work - opening issues on GitHub | All |
+
+<h2 id="ogh">Open Geoscience Hackathon</h2>
+
+<div style="text-align: center;">
+<img src="images/GeoScienceHackathon.jpg" alt="Logo of FAIRLeap Workshop" width="200" />
+</div>
+
+This workshop focused on packaging research software for the geosciences.
+
+* *Intended audience*: Researchers interested in sharing their open science code in the form of an open source package, or in contributing to open source libraries.
+* *Learning objectives*: opening pull requests to contribute to open source projects; packaging software for distribution, including documentation; principles of unit tests and continuous integration (CI); publishing through a package manager.
+* *Description:* The workshop will consist of a blend of lectures and the participant's own research needs.
+* *Completion:* Participants will be asked to submit a research software package to a repository such as CRAN or PyPI and/or contribute to an open source package through a pull request.
+
+### Outcome
+Note that some of these repositories are kept private, awaiting for publication. 
+
+|Participant Name | Affiliation | Research Area | Repository |
+|Kurt Lindberg | University at Buffalo | Paleoceanography and Paleoclimatology | [GitHub](https://github.com/kurtlindberg/leafwaxtools)|
+|Duyi Li | University of Texas at Austin, Institute for Geophysics |Cryosphere Sciences|[GitHub](https://github.com/Duyi-Li/multipol)|
+|Jean Costello | Boston University |GeoHealth|[GitHub](https://github.com/jeanmico/structuralnoisebarriers)|
+|Preetika Kaur|University of Wyoming|Hydrology|[GitHub](https://github.com/preetika11)|
+|Tanaya Gondhalekar|University of Southern California|Paleoceanography and Paleoclimatology|[GitHub](https://github.com/tanaya-g/sedproxy_python)|
+|Surabhi Upadhyay|Colorado School of Mines|Hydrology|[GitHub](https://github.com/surabhiupadhyay/pyclimproj)|
+|Juan S. Acero Triana|UCR/ENSC|Hydrology|[GitHub](https://github.com/jsacerot/Rpftools)|
+|Nelofar Qulizada|University of Arkansas|Science and Society|[GitHub](https://github.com/nqulizada835/geocleaner)|
+|Lindsay Fitzpatrick|University of Michigan|Earth and Planetary Surface Processes|[GitHub](https://github.com/lefitzpatrick/nbspredictor)|
+|Bo Dong|Lawrence Livermore National Laboratory|Atmospheric Sciences|[GitHub](https://github.com/bosup/toy_package)|
+|Zach Uhlmann|McMillen, Inc.|Geoinformatics|[GitHub](https://github.com/PratyushTripathy/pyrsgis)|
+
+
+### Schedule
+
+#### Day 1: Basics
+
+| Start | End | Session        | Speaker       |
+|-------|-----|----------------|----------------|
+| 09:00 | 09:15 | Welcome | Deborah Khider |
+| 09:15 | 10:30 | Basics of Packaging | Nick McKay|
+| 10:30 | 10:45 | BREAK |--------|
+| 10:45 | 12:00 | Hands-on practice with toy package| Deborah Khider|
+| 12:00 | 13:00 | LUNCH |--------|
+| 13:00 | 17:00 | Work on project     |--------|
+
+#### Day 2: Documentation and testing
+
+| Start | End | Session        | Speaker       |
+|-------|-----|----------------|----------------|
+| 09:00 | 10:00 | Writing a good documentation and testing| Nick McKay |
+| 10:00 | 10:15 | BREAK |--------|
+| 10:15 | 12:00 | Hands-on practice with toy package| Deborah Khider|
+| 12:00 | 13:00 | LUNCH |--------|
+| 13:00 | 17:00 | Work on project     |--------|
+
+#### Day 3: Continuous integration and publishing your package
+
+| Start | End | Session        | Speaker       |
+|-------|-----|----------------|----------------|
+| 09:00 | 10:00 | CI and publishing | Nick McKay |
+| 10:00 | 10:15 | BREAK |--------|
+| 10:15 | 12:00 | Hands-on practice with toy package| Deborah Khider|
+| 12:00 | 13:00 | LUNCH     |--------|
+| 13:00 | 17:00 | Work on project     |--------|

@@ -7,7 +7,7 @@
 ---
 <img src="images/nick.jpeg" alt="Nick" width="100" />
 
-[Nick McKay](https://directory.nau.edu/person/npm4), School of Earth and Sustainability, Northern Arizona University
+[Nick McKay](https://www.cefns.nau.edu/~npm4/), School of Earth and Sustainability, Northern Arizona University
 
 ---
 <img src="images/dave.jpg" alt="Dave" width="100" />
